@@ -1,0 +1,5 @@
+C:\Users\Aleksandr\source\repos\DemoExamen\SD2022Users{NN}Lib\bin\Debug\SD2022Users{NN}Lib.dll
+C:\Users\Aleksandr\source\repos\DemoExamen\SD2022Users{NN}Lib\bin\Debug\SD2022Users{NN}Lib.pdb
+C:\Users\Aleksandr\source\repos\DemoExamen\SD2022Users{NN}Lib\obj\Debug\SD2022Users{NN}Lib.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\DemoExamen\SD2022Users{NN}Lib\obj\Debug\SD2022Users{NN}Lib.dll
+C:\Users\Aleksandr\source\repos\DemoExamen\SD2022Users{NN}Lib\obj\Debug\SD2022Users{NN}Lib.pdb

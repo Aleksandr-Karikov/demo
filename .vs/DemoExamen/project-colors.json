@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "037f1333-68bb-4b10-804b-fbae5a1186b5": {
+      "ProjectGuid": "037f1333-68bb-4b10-804b-fbae5a1186b5",
+      "DisplayName": "DemoExamen",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "c5ebcd6a-ba96-4f02-b544-f58eed52ab2a": {
+      "ProjectGuid": "c5ebcd6a-ba96-4f02-b544-f58eed52ab2a",
+      "DisplayName": "SF2022User{NN}Lib",
+      "ColorIndex": 1
+    },
+    "9fc48a29-8313-45a2-860b-5dd50a997e3e": {
+      "ProjectGuid": "9fc48a29-8313-45a2-860b-5dd50a997e3e",
+      "DisplayName": "SD2022Users{NN}Lib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

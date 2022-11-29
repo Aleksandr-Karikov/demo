@@ -1,0 +1,1 @@
+INSERT INTO adventureworks.dbo.myimages values (1, (SELECT * FROM OPENROWSET(BULK N'C:\img\1.png', SINGLE_BLOB) as T1))
